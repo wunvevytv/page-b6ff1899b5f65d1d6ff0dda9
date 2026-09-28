@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "16f3118b31868fde64423e32",
+  "owner": "wunvevytv",
+  "repo": "page-b6ff1899b5f65d1d6ff0dda9",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b6ff1899b5f65d1d6ff0dda9",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5e8603ecc98a1908e51f7ea9bc225a14069b7bba10f47a6fc93193bf076959f4",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬提供稳定高效的网络加速服务，支持多种客户端下载，选择最适合您的方案。",
+          "AI_DESCRIPTION": "快柠檬提供稳定高效的网络加速服务，支持多种客户端下载，选择最适合您的方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            margin: 0;\n            padding: 0;\n            background-color: #f8f9fa;\n            color: #333;\n            line-height: 1.7;\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Noto Sans SC\", sans-serif;\n        }\n        header {\n            background: white;\n            box-shadow: 0 4px 12px rgba(107, 91, 149, 0.1);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 1.5rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: #6b5b95;\n            text-decoration: none;\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: #333;\n            text-decoration: none;\n            font-weight: 500;\n            transition: color 0.3s;\n        }\n        .nav-links a:hover {\n            color: #6b5b95;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1.5rem;\n        }\n        .hero {\n            background: linear-gradient(135deg, #f0e6f5 0%, #e0d4f0 100%);\n            border-radius: 16px;\n            padding: 4rem 2rem;\n            text-align: center;\n            margin-bottom: 3rem;\n        }\n        .hero h1 {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n            color: #6b5b95;\n        }\n        .hero p {\n            font-size: 1.25rem;\n            margin-bottom: 2rem;\n        }\n        .cta {\n            background: #6b5b95;\n            color: white;\n            padding: 1rem 2rem;\n            border-radius: 50px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-block;\n            transition: all 0.3s;\n        }\n        .cta:hover {\n            background: #5a4a7f;\n            transform: translateY(-2px);\n        }\n        section {\n            margin-bottom: 4rem;\n        }\n        section h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: #6b5b95;\n            border-bottom: 2px solid #f0e6f5;\n            padding-bottom: 0.5rem;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        ul, ol {\n            padding-left: 1.5rem;\n        }\n        li {\n            margin-bottom: 0.75rem;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 2rem;\n        }\n        .card {\n            background: white;\n            border-radius: 12px;\n            padding: 2rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            transition: transform 0.3s;\n        }\n        .card:hover {\n            transform: translateY(-5px);\n        }\n        .card h3 {\n            color: #6b5b95;\n            margin-top: 0;\n        }\n        .card .price {\n            font-size: 1.5rem;\n            font-weight: 700;\n            color: #333;\n            margin: 1rem 0;\n        }\n        .card .annual {\n            color: #6b5b95;\n            font-size: 0.9rem;\n        }\n        .card ul {\n            list-style: none;\n            padding: 0;\n        }\n        .card li {\n            padding: 0.5rem 0;\n            border-bottom: 1px solid #eee;\n        }\n        .card:last-child {\n            border-bottom: none;\n        }\n        .faq {\n            display: flex;\n            flex-direction: column;\n            gap: 1rem;\n        }\n        details {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 1.5rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n            position: relative;\n        }\n        summary::after {\n            content: \"▼\";\n            position: absolute;\n            right: 1.5rem;\n            transition: transform 0.3s;\n        }\n        details[open] summary::after {\n            transform: rotate(180deg);\n        }\n        details summary {\n            background: #f8f9fa;\n        }\n        details[open] summary {\n            background: #fff;\n        }\n        details > div {\n            padding: 1.5rem;\n            border-top: 1px solid #eee;\n        }\n        @media (max-width: 768px) {\n            .nav-links {\n                gap: 1rem;\n                font-size: 0.9rem;\n            }\n            .hero h1 {\n                font-size: 2.5rem;\n            }\n            main {\n                padding: 1.5rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <a href=\"#\" class=\"logo\">快柠檬</a>\n            <div class=\"nav-links\">\n                <a href=\"#intro\">品牌简介</a>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#guide\">操作指南</a>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <div class=\"hero\">\n            <h1>快柠檬</h1>\n            <p>高效网络加速，客户端选择丰富</p>\n            <a href=\"#clients\" class=\"cta\">立即开始使用</a>\n        </div>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>快柠檬是一款专注于网络加速的优质服务品牌，致力于为用户提供稳定可靠的连接体验。</p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>快柠檬适用于多种网络需求场景，包括日常上网、远程工作以及内容解锁等。</p>\n        </section>\n        <section id=\"guide\">\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问客户端下载页面获取您的首选客户端。</li>\n                <li>按照安装提示完成客户端的安装。</li>\n                <li>注册并登录您的账户。</li>\n                <li>选择合适的节点进行连接。</li>\n                <li>完成连接后即可享受加速服务。</li>\n            </ol>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\">\n            <h2>合作伙伴</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是快柠檬？</summary>\n                    <div>快柠檬提供网络加速和VPN相关服务，帮助用户提升上网速度和稳定性。</div>\n                </details>\n                <details>\n                    <summary>如何选择合适的套餐？</summary>\n                    <div>您可以根据您的使用需求和设备数量来选择适合的套餐。</div>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <div>快柠檬支持多台设备同时在线连接。</div>\n                </details>\n                <details>\n                    <summary>客户端如何使用？</summary>\n                    <div>下载客户端后，按照界面提示进行简单配置即可连接网络。</div>\n                </details>\n                <details>\n                    <summary>如何获得技术支持？</summary>\n                    <div>请通过我们的客服渠道获取帮助。</div>\n                </details>\n            </div>\n        </section>\n    </main>\n    <footer>\n        <div>\n            <p>© 快柠檬 2024 保留所有权利</p>\n        </div>\n    </footer>\n\n",
+          "hash": "96b45b95b0f9252d12affa48e593f68c1652d9a75504f72fe6da07269e98cce9",
+          "seo": {
+            "title": "快柠檬 - 客户端下载 | VPN加速器",
+            "keywords": "快柠檬, VPN, 客户端下载, 网络加速, 加速器",
+            "description": "快柠檬提供稳定高效的网络加速服务，支持多种客户端下载，选择最适合您的方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "leiiwkw.cn",
+    "host": "home.leiiwkw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "leiiwkw.cn",
+      "url": "https://leiiwkw.cn/",
+      "label": "厘米云(CmCloud)",
+      "apex": "leiiwkw.cn",
+      "kind": null,
+      "identity": "c7emb7unx/page-a19e1c6374aee33c7665ec0b"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ab5e9b6736340f08f78ac0c80034b7bb2e623af52ef06e517edaf8a0042a6079",
+    "sitemap.xml": "3befca8f04ced9127c3c10e27c9a21749aa3d6cbeeb690581f76279c6e188f1b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2f6c85bb65bdbde8aae1eba7cfdcadb25c3dde7f75a23b1fe802fa4d83ea5a87",
+    "robots.txt": "94cbfc85193e3e9b02d52b421793037b11fcaa632e78dec9b0ca0ba076049adb",
+    "a9bc00a524408034e4ef388b5f0f0574.txt": "6e99a142dd4dba2d4896c283f746b2ff3299e6be9d7cf52d08f542ac08ae4607"
+  },
+  "revision": "962124ba67753e2136c0724cb219024db9218530106a8644e795edba65bfdb57"
+}
